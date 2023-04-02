@@ -21,4 +21,21 @@
  
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
  
-<br/><p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=msriaj&" alt="msriaj" /></p>
+ 
+
+<h3 align="left">MERN PROJECT</h3>
+
+| Project Name | Details | Live Link | Code Link  |
+|---|---|---|---|
+|NextPhone | NextPhone is an app that allows users to sell their old mobile phones online with just a few clicks.  |   https://mobilelistbd.web.app    |  https://github.com/msriaj/resale-shop-role-based-client 
+|Dentina  |Dentina - For Dentist Services And Review Dentina is the ultimate destination for all your dental needs. Whether you're looking for a new dentist or want to read reviews of your current one, Dentina has you covered. With a user-friendly interface, Dentina allows you to search for dentists in your area, read reviews from other patients, and book ap  |   [https://mobilelistbd.web.app](https://service-review-ms.web.app/)    | [ https://github.com/msriaj/resale-shop-role-based-client ](https://github.com/msriaj/Dentina-Review-)
+| SkillUp | SkillUp has all the trendy and demanding courses in today's world. Our lab has all the necessary computer configurations required for the course. You can sit in the lab after the class and practice anything related to the course.  |    [https://github.com/msriaj/skill-up-client](https://course-system-8b094.web.app/)    | https://github.com/msriaj/skill-up-client
+
+
+<h3 align="left">STATIC PAGE </h3>
+
+| Project Name |  Live Link | 
+|---|---| 
+| Job Finder One Page | https://github.com/msriaj/Job-Finder-Figma-To-HTML
+| HELP |  https://github.com/msriaj/help-today-ph
+| Estudy | https://github.com/msriaj/eStudy
